@@ -3,3 +3,4 @@ sqlalchemy
 pandas
 numpy
 pymysql
+xlsxwriter
