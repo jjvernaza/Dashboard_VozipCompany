@@ -3,7 +3,7 @@ from sqlalchemy.orm import sessionmaker
 
 # Configuración del motor
 def get_engine():
-    return create_engine('mysql+pymysql://avnadmin:AVNS_5uSGQcVeHQEIRQ1YA8b@mysql-f2a31f6-jjvernazamayor-66da.g.aivencloud.com:19544/vozip_database')
+    return create_engine('mysql+pymysql://u8cwb0paehh1l8ue:ALFHA1EO6IWfl7Hm7Unm@buqpques8tk1uvbfib4j-mysql.services.clever-cloud.com:3306/buqpques8tk1uvbfib4j')
 
 # Crear una sesión
 engine = get_engine()
